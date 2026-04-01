@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            // Arrow Function
+            let a = (name) => {
+                return "Hello" + name;
+            };
+            console.log(a("Shivu"));
+        </script>
+    </body>
+</html>
